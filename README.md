@@ -1,0 +1,149 @@
+#Assignment
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8"
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            table, th,td {border:1px solid black;
+            text-align: center;}
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+        </style>
+    </head>
+    <body>
+        <h2> students details</h2>
+        <table style="width:100%">
+            <tr>
+                <th>NAME</th>
+                <th>AGE</th>
+                <th>COUNTRY</th>
+                <th>GPA</th>
+            </tr>
+            <tr>
+                <td>Ella</td>
+                <td>18</td>
+                <td>usa</td>
+                <td>3.6</td>
+            </tr>
+            <tr>
+                <td>Bright</td>
+                <td>20</td>
+                <td>Nigeria</td>
+                <td>4.5</td>
+            </tr>
+            <tr>
+                <td>Rebecca</td>
+                <td>21</td>
+                <td>Ghana</td>
+                <td>3.8</td>
+            </tr>
+            <tr>
+                <td>James</td>
+                <td>19</td>
+                <td>Kenya</td>
+                <td>2.5</td>
+            </tr>
+            <tr>
+                <td>Samuel</td>
+                <td>20</td>
+                <td>uk</td>
+                <td>3.0</td>
+            </tr>
+            <tr>
+                <td>Osazee</td>
+                <td>23</td>
+                <td>france</td>
+                <td>4.3</td>
+            </tr>
+            <tr>
+                <td>Queen</td>
+                <td>19</td>
+                <td>Nigeria</td>
+                <td>5.0</td>
+            </tr>
+            <tr>
+                <td>Andre</td>
+                <td>18</td>
+                <td>Australia</td>
+                <td>5.0</td>
+            </tr>
+            <tr>
+                <td>kelly </td>
+                <td>25</td>
+                <td>spain</td>
+                <td>4.1</td> 
+            </tr>
+            <tr>
+                <td>Ese</td>
+                <td>22</td>
+                <td>Nigeria</td>
+                <td>4.8</td>                
+            </tr>
+            <tr>
+                <td>yole</td>
+                <td>19</td>
+                <td>korean</td>
+                <td>3.9</td>
+            </tr>
+            <tr>
+                <td>Gabriel</td>
+                <td>26</td>
+                <td>Uganda</td>
+                <td>3.2</td>
+            </tr>
+            <tr>
+                <td>Emma</td>
+                <td>27</td>
+                <td>finland</td>
+                <td>3.7</td>
+            </tr>
+            <tr>
+                <td>philip</td>
+                <td>28</td>
+                <td>philipine</td>
+                <td>2.8</td>
+            </tr>
+            <tr>
+                <td>Osas</td>
+                <td>27</td>
+                <td>Ghana</td>
+                <td>4.0</td>                
+            </tr>
+            <tr>
+                <td>Lucky</td>
+                <td>24</td>
+                <td>france</td>
+                <td>3.6</td>
+            </tr>
+            <tr>
+                <td>Elisha</td>
+                <td>18</td>
+                <td>italy</td>
+                <td>3.7</td>
+            </tr>
+            <tr>
+                <td>Favour</td>
+                <td>20</td>
+                <td>Malta</td>
+                <td>4.6</td>
+            </tr>
+            <tr>
+                <td>Nzthaniel</td>
+                <td>30</td>
+                <td>germany</td>
+                <td>4.5</td>
+            </tr>
+            <tr>
+                <td>Jenny</td>
+                <td>29</td>
+                <td>canada</td>
+                <td>3.8</td>
+            </tr>
+
+
+        </table>
+    </body>
+    </html>
+        
